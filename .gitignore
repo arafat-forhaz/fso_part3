@@ -2,3 +2,7 @@
 
 /node_modules
 /pbfront
+
+#files
+
+.env
